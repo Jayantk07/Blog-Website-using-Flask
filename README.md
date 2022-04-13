@@ -6,7 +6,7 @@
 ### Web Application
 
 <div align='center'>
-<img src = 'Blog-Website-using-Flask/templates/home.JPG' height="400px">
+<img src = 'Blogging-Website-using-Flask/templates/home.jpeg' height="400px">
 </div>
 
 ### Steps of Code Execution
