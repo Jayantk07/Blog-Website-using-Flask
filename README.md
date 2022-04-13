@@ -14,7 +14,7 @@
   1. Clone / Download this [repository](https://github.com/Jayantk07/Blog-Website-using-Flask)
   2. Unzip the downloaded folder
   3. Download and Open any python editor (Here, [PyCharm](https://www.jetbrains.com/pycharm/) is used)
-  4. Run this [python file](https://github.com/Jayantk07/Blog-Website-using-Flask/blob/main/WebX-IA-5/Blogging-Website-using-Flask/app.py) and go to the link to execute the application.
+  4. Run the app.py file and execute the application.
 
 ### References
 
